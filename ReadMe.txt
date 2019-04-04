@@ -14,9 +14,9 @@ There are five directories:
 		2) The second one is used to store all the excel files.
 
 	B) Three directories for the input results:
-		1) The first one is used to access 'anthropometrics.xlsx' file.
-		2) The second one is used to acces THR_patients files.
-		3) The third one is used to access Healthy_subject files.
+		1) The first one is used to access Input file.
+		2) The second one is used to acces THR files.
+		3) The third one is used to access Healthy files.
 
 The code is structured using a number of small functions controlled by the
 master MATLAB code called "gait_data_processing.m".
@@ -66,11 +66,7 @@ IF FUNCTIONS 6, 7, 8 and 9 are commented, uncomment to see the results.
 
 Computation time for some plots is long because of the extensive use of scatter plots.
 
-The code needs approximately 1 - 2 minutes to produce the results on a normal pc when
-functions 5, 6, 7 and 8 are commented.
-
-The code needs approximately 50 minutes to produce the results on a normal pc when
-all the functions are uncomment.
+The code might take saveral minutes to produce the results based on the pc used.
 
 			            !!! SOS !!!
 ///////////////////////////////////////////////////////////////////////////////////////
