@@ -72,7 +72,7 @@ functions 5, 6, 7 and 8 are commented.
 The code needs approximately 50 minutes to produce the results on a normal pc when
 all the functions are uncomment.
 
-				           !!! SOS !!!
+			            !!! SOS !!!
 ///////////////////////////////////////////////////////////////////////////////////////
 ///  For the plot_animation function to work as expected, change the values of the  ///
 ///  off marker of the patients from -1 to 0 to indicate when the left foot is off  ///
